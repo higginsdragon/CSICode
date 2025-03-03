@@ -28,6 +28,7 @@ misrepresented as being the original software.
  */
 
 #include "wdltypes.h"
+#include <stddef.h> // wchar_t
 
 #ifndef WDL_WCHAR
   #ifdef _WIN32
