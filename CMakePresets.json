@@ -86,6 +86,30 @@
       "displayName": "Windows Release Win32",
       "configurePreset": "Win32",
       "configuration": "Release"
+    },
+    {
+      "name": "linux64Debug",
+      "displayName": "Linux Debug x64",
+      "configurePreset": "linux64",
+      "configuration": "Debug"
+    },
+    {
+      "name": "linux64Release",
+      "displayName": "Linux Release x64",
+      "configurePreset": "linux64",
+      "configuration": "Release"
+    },
+    {
+      "name": "macos-x86_64Debug",
+      "displayName": "MacOS Debug x86_64",
+      "configurePreset": "macos-x86_64",
+      "configuration": "Debug"
+    },
+    {
+      "name": "macos-x86_64Release",
+      "displayName": "MacOS Release x86_64",
+      "configurePreset": "macos-x86_64",
+      "configuration": "Release"
     }
   ]
 }

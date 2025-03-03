@@ -45,10 +45,15 @@ Then enter the build directory and run make:
 
 ```bash
 cmake --preset=linux64
-cd cmake-build-linux
-make
+cmake --build --preset=linux64Release
 ```
 
 ### MacOS
 
-**TODO**
+From the root directory of the project, run CMake to generate the build files, using the preset for Mac.
+Then enter the build directory and run make:
+
+```bash
+cmake --preset=macos-x86_64
+cmake --build --preset=macos-x86_64Release
+```
