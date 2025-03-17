@@ -20,7 +20,7 @@ CSI version 7.0 requires Reaper version 6.79 or later.
 
 ### Installation
 
-From [Releases](https://github.com/FunkybotsEvilTwin/CSICode/releases), download the appropriate plugin for your platform _and_ CSI.zip and unzip both.
+From [Releases](https://github.com/higginsdragon/CSICode/releases/tag/test), download the appropriate plugin for your platform _and_ CSI.zip and unzip both.
 
 1. In Reaper, select **Actions > Show Action List**
 2. Search for "Show REAPER resource path in explorer" (finder on Mac) and click Run
